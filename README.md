@@ -66,3 +66,5 @@ The team is now seeking for fund donations to support the project development. A
 
 [![IMAGE ALT TEXT](https://www.paypalobjects.com/webstatic/en_US/i/buttons/PP_logo_h_150x38.png)](https://www.paypal.me/qbill "Contribute")
 
+Please specify "Tritube to Bill Killer Project" as the note for the transaction.
+
