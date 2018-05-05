@@ -26,4 +26,5 @@ A prototype of QR Code scanning on mobile app is complete and the connection wit
 
 The team is now seeking for fund donations to support the project development. All contributors will be granted a permanent license of using Bill Killer Private. For Bill Killer Cloud, the length of granted period will be calculated upon the amount of tribute of the individual contributor accordingly. 
 
-![alt text](https://www.paypalobjects.com/webstatic/en_US/i/buttons/PP_logo_h_150x38.png "Prototype ready")
+[![IMAGE ALT TEXT](https://www.paypalobjects.com/webstatic/en_US/i/buttons/PP_logo_h_150x38.png)](https://www.paypal.me/qbill "Contribute")
+
