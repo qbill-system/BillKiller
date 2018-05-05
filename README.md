@@ -18,5 +18,12 @@ At the same time, as the end-users already installed the app, the restaurants (o
 
 ## Current Stage of Development 
 
-A prototype of QR Code scanning on mobile app is complete and the connection with the online database hosted in Amazon Cloud is fully functional. The printer can now print out the orders upon the online database. A full demonstration of ordering pipeline is ready.  
+A prototype of QR Code scanning on mobile app is complete and the connection with the online database hosted in Amazon Cloud is fully functional. The printer can now print out the orders upon the online database. A full demonstration of ordering pipeline is ready.
 
+![alt text](https://github.com/qbill-system/BillKiller/blob/master/images/snap.png "Prototype ready")
+
+## Project Development Donation
+
+The team is now seeking for fund donations to support the project development. All contributors will be granted a permanent license of using Bill Killer Private. For Bill Killer Cloud, the length of granted period will be calculated upon the amount of tribute of the individual contributor accordingly. 
+
+![alt text](https://www.paypalobjects.com/webstatic/en_US/i/buttons/PP_logo_h_150x38.png "Prototype ready")
