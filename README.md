@@ -38,7 +38,7 @@ For larger F&B enterprises, such as Itamae Sushi and Genki Sushi, they already h
 
 At this time, there are no obvious compe4tors in the market but only a similar one called web- on (asia) Ltd, with website hdp://www.web-on.com, can be highlighted here for exploration. Actually, it is a tailor-made solu4on provider and got a number of renowned clients. It provides online take-away ordering solu4ons and back-end supports for KFC , PizzaHut and PHD. Surely, their targeted clients can offer 6-digits development cost. Obviously, startups are not their cup of tea. Moreover, it does not provide native mobile take-away / dine-in order submissions and mobile CRM yet, so Bill Killer has a lot of rooms to explore in this extent.
 
-![alt text](https://github.com/BillKiller-system/BillKiller/blob/master/images/swot.png "Prototype ready")
+![alt text](https://github.com/qbill-system/BillKiller/blob/master/images/swot.png "Prototype ready")
 
 ## MarkeAng Strategy
 
@@ -58,7 +58,7 @@ There are at least four channels to distribute Bill Killer: direct mails, banner
 
 A prototype of QR Code scanning on mobile app is complete and the connection with the online database hosted in Amazon Cloud is fully functional. The printer can now print out the orders upon the online database. A full demonstration of ordering pipeline is ready.
 
-![alt text](https://github.com/BillKiller-system/BillKiller/blob/master/images/snap.png "Prototype ready")
+![alt text](https://github.com/qbill-system/BillKiller/blob/master/images/snap.png "Prototype ready")
 
 ## Project Development Donation
 
