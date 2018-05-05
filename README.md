@@ -1,4 +1,4 @@
 # Bill Killer
 
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/v1wgfnoTB_s/0.jpg)](http://www.youtube.com/watch?v=v1wgfnoTB_s "Video demo")
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/YvzdNbAkFgY/0.jpg)](https://youtu.be/YvzdNbAkFgY "Video demo")
 
